@@ -18,7 +18,7 @@
 ## 📘 Projetos em destaque
 
 🔗 [NETFLIX-CLONE](https://github.com/EmersonSalomao/NETFLIX-CLONE)  
-🔗 [aula-bootstrap](https://github.com/EmersonSalomao/aula-bootstrap)
+
 
 *(Mais projetos em breve!)*
 
