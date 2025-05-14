@@ -8,10 +8,10 @@
 
 ## 🚀 Tecnologias e Ferramentas
 
-- 🛠️ **Automação:**  sensores, atuadores, redes industriais  
+- 🛠️ **Automação:**  sensores, atuadores 
 - 🔌 **Eletrônica:** Instrumentação, manutenção, projetos com Arduino  
 - 💻 **Desenvolvimento:** HTML, CSS, JavaScript, Python, C/C++, Node.js  
-- 🧰 **Ferramentas:** Git, GitHub, VS Code, Proteus, TIA Portal, AutoCAD Electrical
+- 🧰 **Ferramentas:** Git, GitHub, VS Code
 
 ---
 
@@ -26,8 +26,7 @@
 
 ## 📫 Contato
 
-- ✉️ emerson.email@example.com *(substituir pelo seu real, se quiser)*
-- 🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil) *(coloque o seu link real)*
+- ✉️ emerson.salomao2002@hotmail.com
 - 🌍 Localização: Brasil
 
 ---
